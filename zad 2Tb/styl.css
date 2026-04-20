@@ -1,0 +1,27 @@
+.header{
+    font-size: 40px;
+    text-align: center;
+    background-color: darkgreen;
+    color: white;
+}
+.nav{
+    font-size: 30px;
+    display: flex;
+    gap: 530px;
+    background-color: green;
+    color: white;
+}
+main{
+    display: flex;
+    gap: 100px;
+}
+table, th, td {
+		border: 1px solid black;
+	}
+body{
+    background-color: greenyellow;
+    position: relative;
+}
+.aside{
+    float: left;
+}
